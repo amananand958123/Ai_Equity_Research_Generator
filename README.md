@@ -1,4 +1,4 @@
-# � Equity Research Report Generator
+#  Equity Research Report Generator
 
 A comprehensive, AI-powered platform for generating educational equity research reports with real-time market data, intelligent stock search, and advanced analytics.
 
